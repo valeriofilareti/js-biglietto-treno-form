@@ -23,13 +23,13 @@ btn.addEventListener('click', function(){
 
   if(age == 'Junior') {
     price -= price / 100 * 40;
-    outputTicket.innerHTML = 'Offerta Junior';
+    outputTicket.innerHTML = 'Junior';
   }else if(age == 'Senior'){
     price -= price / 100 * 60;
-    outputTicket.innerHTML = 'Offerta Silver';
+    outputTicket.innerHTML = 'Silver';
   }else{
     price = price;
-    outputTicket.innerHTML = 'Biglietto Standard';
+    outputTicket.innerHTML = 'Standard';
   }
 
   outputName.innerHTML = name;

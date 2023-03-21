@@ -14,3 +14,4 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del bigliett
 2) Creare una funzione che, al click del bottone, salvi i dati utente dell'imput dentro delle costanti
 3) Calcolare lo sconto dell'utente sulla base della fascia d'età corrispondente
 4) Stampare i risultati in pagina
+5) al click del bottone, generare due numeri randomici, uno dall'1 al 10, l'altro dal 9000 al 9999
