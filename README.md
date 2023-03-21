@@ -12,3 +12,4 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del bigliett
 ## Svolgimento
 
 1) Creare una funzione che, al click del bottone, salvi i dati utente in delle costanti
+2) Calcolare lo sconto dell'utente sulla base della fascia d'età corrispondente

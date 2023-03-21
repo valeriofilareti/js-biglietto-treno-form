@@ -9,6 +9,13 @@ btn.addEventListener('click', function(){
   const km = document.getElementById('km').value;
   const age = document.getElementById('age').value;
   price = km * 0.21;
+
+  if(age == 'Junior') {
+    price -= price / 100 * 40;
+  }else if(age == 'Senior'){
+    price -= price / 100 * 60;
+  }
+
   outputName.innerHTML = name;
   outputPrice.innerHTML = price;
   outputTicket.innerHTML = age;
