@@ -10,6 +10,7 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del bigliett
 - va applicato uno sconto del 40% per gli over 65.
 
 ## Svolgimento
-
-1) Creare una funzione che, al click del bottone, salvi i dati utente in delle costanti
-2) Calcolare lo sconto dell'utente sulla base della fascia d'età corrispondente
+1) Creare gli input ed il bottone
+2) Creare una funzione che, al click del bottone, salvi i dati utente dell'imput dentro delle costanti
+3) Calcolare lo sconto dell'utente sulla base della fascia d'età corrispondente
+4) Stampare i risultati in pagina
